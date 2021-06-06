@@ -18,13 +18,12 @@
 
 Prof. Dr. José Eduardo Storopoli
 
-
-
-# Conteúdo:
-
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 ```
+
+## Conteúdo:
+
 ```
 http://www.atlasbrasil.org.br/ranking
 ````
