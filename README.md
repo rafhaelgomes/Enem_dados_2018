@@ -1,17 +1,18 @@
 # Projeto Disciplina Ciência de Dados
 
-
+* Universidade nove de julho
+* Ciência da Computação
 
 
 
 ## Integrantes
  
-Leonardo Lima  dos Santos RA: 3018107425
-Henrique Amorim RA: 3018100711
-Peter Lourenço RA: 3018109003
-Rafhael Gomes Rodrigues RA: 3018103731
-Luciano Leite de Souza RA: 3018103566
-Fernando Pedro do Nascimento RA: 3018102266
+Leonardo Lima  dos Santos RA: 3018107425\br
+Henrique Amorim RA: 3018100711\br
+Peter Lourenço RA: 3018109003\br
+Rafhael Gomes Rodrigues RA: 3018103731\br
+Luciano Leite de Souza RA: 3018103566\br
+Fernando Pedro do Nascimento RA: 3018102266\br
 
 ## Professor
 
