@@ -7,22 +7,20 @@
 
 ## Integrantes
  
-Leonardo Lima  dos Santos RA: 3018107425\br
-Henrique Amorim RA: 3018100711\br
-Peter Lourenço RA: 3018109003\br
-Rafhael Gomes Rodrigues RA: 3018103731\br
-Luciano Leite de Souza RA: 3018103566\br
-Fernando Pedro do Nascimento RA: 3018102266\br
+* Leonardo Lima  dos Santos RA: 3018107425
+* Henrique Amorim RA: 3018100711
+* Peter Lourenço RA: 3018109003
+* Rafhael Gomes Rodrigues RA: 3018103731
+* Luciano Leite de Souza RA: 3018103566
+* Fernando Pedro do Nascimento RA: 3018102266
 
 ## Professor
 
-[Prof. Dr. José Eduardo Storopoli]
+Prof. Dr. José Eduardo Storopoli
 
 
 
-
-
-Conteúdo:
+# Conteúdo:
 
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
