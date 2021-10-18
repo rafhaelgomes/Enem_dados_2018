@@ -7,12 +7,9 @@
 
 ## Integrantes
  
-* Leonardo Lima  dos Santos RA: 3018107425
-* Henrique Amorim RA: 3018100711
-* Peter Lourenço RA: 3018109003
-* Rafhael Gomes Rodrigues RA: 3018103731
-* Luciano Leite de Souza RA: 3018103566
-* Fernando Pedro do Nascimento RA: 3018102266
+
+* Rafhael Gomes Rodrigues 
+
 
 ## Professor
 
